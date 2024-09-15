@@ -1,0 +1,105 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Exe1",
+            "request": "launch",
+            "mainClass": "estruturaDeDecisao.Exe1",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe1(1)",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe1",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe10",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe10",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe11",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe11",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe12",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe12",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe2",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe2",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe3",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe3",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe4",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe4",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe5",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe5",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe6",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe6",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe7",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe7",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe8",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe8",
+            "projectName": "java-coding-practice_e8195230"
+        },
+        {
+            "type": "java",
+            "name": "Exe9",
+            "request": "launch",
+            "mainClass": "exerciciosIFRN.Exe9",
+            "projectName": "java-coding-practice_e8195230"
+        }
+    ]
+}
