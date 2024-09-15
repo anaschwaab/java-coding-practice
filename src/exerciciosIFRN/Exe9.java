@@ -1,3 +1,5 @@
+package exerciciosIFRN;
+
 import java.util.Scanner;
 
 public class Exe9 {
@@ -22,6 +24,6 @@ public class Exe9 {
             pesoIdeal = (72.7 * altura) - 58;
             System.out.printf("Seu peso ideal é de: %.2f\n", pesoIdeal);
         }
-
+        sc.close();
     }
 }

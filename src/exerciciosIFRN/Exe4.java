@@ -1,3 +1,5 @@
+package exerciciosIFRN;
+
 import java.util.Scanner;
 
 public class Exe4 {
@@ -17,5 +19,6 @@ public class Exe4 {
             c = a * b;
             System.out.println("O resultado da multiplicação dos dois números é: " + c);
         }
+        sc.close();
     }
 }

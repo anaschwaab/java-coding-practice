@@ -1,3 +1,4 @@
+package exerciciosIFRN;
 
 import java.util.Scanner;
 

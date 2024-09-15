@@ -1,3 +1,5 @@
+package exerciciosIFRN;
+
 import java.util.Scanner;
 
 public class Exe5 {
@@ -17,5 +19,6 @@ public class Exe5 {
             numeroTriplo = numero * 3;
             System.out.println("O triplo do número digitado é: " + numeroTriplo);
         }
+        sc.close();
     }
 }

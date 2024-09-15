@@ -1,3 +1,5 @@
+package exerciciosIFRN;
+
 import java.util.Scanner;
 
 public class Exe10 {
@@ -25,6 +27,6 @@ public class Exe10 {
         } else {
             System.out.println("Obeso");
         }
-        
+        sc.close();
     }
 }

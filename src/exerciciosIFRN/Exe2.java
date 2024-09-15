@@ -1,3 +1,5 @@
+package exerciciosIFRN;
+
 import java.util.Scanner;
 
 public class Exe2 {
@@ -16,5 +18,6 @@ public class Exe2 {
         if (sexo.equals("F") && estadoCivil.equals("CASADA")) {
             System.out.println(nome + " por favor, digite o tempo de casada: ");
         }
+        sc.close();
     }
 }

@@ -1,3 +1,5 @@
+package exerciciosIFRN;
+
 import java.util.Scanner;
 
 public class Exe11 {
@@ -29,7 +31,6 @@ public class Exe11 {
         } else {
             System.out.println("aqui");
         }
-
-
+        sc.close();
     }
 }

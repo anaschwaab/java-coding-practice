@@ -1,3 +1,5 @@
+package exerciciosIFRN;
+
 import java.util.Scanner;
 
 public class Exe8 {
@@ -44,5 +46,6 @@ public class Exe8 {
                 System.out.println("A ordem decrescente dos valores é: " + c + ", " + a + ", " + b);
             }
         } 
+        sc.close();
     }
 }

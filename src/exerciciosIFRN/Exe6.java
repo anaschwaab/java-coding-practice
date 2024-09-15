@@ -1,3 +1,5 @@
+package exerciciosIFRN;
+
 import java.util.Scanner;
 
 public class Exe6 {
@@ -19,5 +21,6 @@ public class Exe6 {
         } else {
             System.out.println("Os dois valores são falsos");
         }
+        sc.close();
     }
 }

@@ -1,3 +1,5 @@
+package exerciciosIFRN;
+
 import java.util.Scanner;
 
 public class Exe12 {
@@ -50,6 +52,6 @@ public class Exe12 {
 
         System.out.println("Aluno: " + numeroIdentificacao + ", Nota 1: " + nota1 + ", Nota 2: " + nota2 + ", Nota 3: " + nota3);
         System.out.println("Média dos exercícios: " + mediaExercicios + ", Conceito: " + conceito + ", " + mensagem);
-
+        sc.close();
     }
 }
